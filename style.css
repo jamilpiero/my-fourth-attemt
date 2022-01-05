@@ -16,3 +16,12 @@ h3{
 .span-colour{
     color:rgb(44, 96, 250);
 }
+section{
+    display: flex;
+}
+.half-widht{
+    width: 50%;
+}
+.half-widht img{
+    width: 100%;
+}
