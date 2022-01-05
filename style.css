@@ -41,10 +41,8 @@ section{
 }
 .shadow{
     width: 40%;
-    margin-left: 5%;
-    margin-right: 5%;
     margin-bottom: 5%;
-    padding-left: 20px;
-    border-radius: 15px;
-    box-shadow: 10px 10px 40px gray;
+    padding-left: 10px;
+    border-radius: 10px;
+    box-shadow: 8px 8px 50px gray;
 }
